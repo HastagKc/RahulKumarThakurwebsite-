@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/banner4.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -221,7 +221,7 @@ section .title::after{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 400px;
+    height: 500px;
     width: 400px;
     object-fit: cover;
     border-radius: 6px;
@@ -252,6 +252,7 @@ section .title::after{
     border: 2px solid crimson;
     transition: all 0.3s ease;
 }
+
 .about .about-content .right a:hover{
     color: crimson;
     background: none;
